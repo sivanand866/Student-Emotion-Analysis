@@ -36,7 +36,7 @@ For example : Below is one of the frame from a meeting video -
 
 ![Screenshot (123)](https://github.com/sivanand866/Student-Emotion-Analysis/assets/84615569/fc1d3f21-d202-47f5-9b38-103ce6c00d5b)
 
-After clicking the esc button the analysis stops and all the emotions of each person present in the video are visualized as below-
+After clicking the esc button the analysis stops and all the emotions of each person present in source throughout the playing time of video are visualized as below-
 
 ![Figure_1](https://github.com/sivanand866/Student-Emotion-Analysis/assets/84615569/bebc10ed-da65-4b1f-868b-5c1ec552d5a1)
 
