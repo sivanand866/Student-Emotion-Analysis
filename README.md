@@ -1,21 +1,36 @@
 # Student-Emotion-Analysis
 A Model which can analyze emotions of students in  images , videos and live video. This model can analyze multiple faces present in the source. Results are predicted using - Sequential Model for image analysis and Random Forest for body language analysis. The modules utilized in this project include OpenCV, MediaPipe, and Face Recognition.
 
-1.Running th ui provides interface as:
+You can download student emotions comprised folder from [Link here](https://www.kaggle.com/datasets/joyee19/studentengagement)
+
+
+
+1.Running th UI.py provides interface as:
 
 ![Screenshot (121)](https://github.com/sivanand866/Student-Emotion-Analysis/assets/84615569/d030ede5-b0c8-407b-84a7-c4edd6e073f1)
 
-2.Main code will start executing after choosing the options and providing the input source.
 
-3.For every new person or face detection will be shown as below in output tab
+
+2.Main.py will start executing after choosing one of the options and providing the input source.
+
+
+
+3.Every new person or face detection will be shown as below in output tab
 
 ![Screenshot (124)](https://github.com/sivanand866/Student-Emotion-Analysis/assets/84615569/4573e309-33c7-45cb-a9b5-d8f590fb6bd0)
+
+
+
 
 4.Option 1: Choosing image as input source will provide output analysis as -
 
 ![Screenshot (119)](https://github.com/sivanand866/Student-Emotion-Analysis/assets/84615569/1875a43d-e3e5-40cd-8d40-1fd70918ae0a)
 
+
+
+
 5.Option 2: Choosing Video or Live video as input source will provide output analysis on each and every face detected throughout the video until esc is clicked.The process is done by collecting frames from the video or live video and performing image analysis on it for emotion detection
+
 
 For example : Below is one of the frame from a meeting video -
 
