@@ -22,7 +22,7 @@ The final prediction is done by combining both model results.
 
 3.Every new person or face detection will be shown as below in output tab
 
-  i)  First list represents prediction probabilities of each emotion from sequential model
+  i)  First list represents prediction probabilities of each emotion from sequential model <br>
   ii) Second list represents prediction probabilities of each emotion from random forest model
   
 ![Screenshot (124)](https://github.com/sivanand866/Student-Emotion-Analysis/assets/84615569/4573e309-33c7-45cb-a9b5-d8f590fb6bd0)
