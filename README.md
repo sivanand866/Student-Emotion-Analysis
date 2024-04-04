@@ -3,7 +3,12 @@ A Model which can analyze emotions of students in  images , videos and live vide
 
 You can download student emotions comprised folder from [Link here](https://www.kaggle.com/datasets/joyee19/studentengagement)
 
-The model1.h5 is trained sequential model and student_body_language.pkl is trained random forest model 
+
+The model1.h5 is trained sequential model and code for training is sequential model for student emotion.ipynb
+
+The student_body_language.pkl is trained random forest model and code for training is student body language.ipynb
+
+
 
 1.Running th UI.py provides interface as:
 
