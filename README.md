@@ -8,7 +8,7 @@ The model1.h5 is trained sequential model and code for training is sequential mo
 
 The student_body_language.pkl is trained random forest model and code for training is student body language.ipynb
 
-
+The final prediction is done by combining both model results.
 
 1.Running th UI.py provides interface as:
 
@@ -22,6 +22,9 @@ The student_body_language.pkl is trained random forest model and code for traini
 
 3.Every new person or face detection will be shown as below in output tab
 
+  i)  First list represents prediction probabilities of each emotion from sequential model
+  ii) Second list represents prediction probabilities of each emotion from random forest model
+  
 ![Screenshot (124)](https://github.com/sivanand866/Student-Emotion-Analysis/assets/84615569/4573e309-33c7-45cb-a9b5-d8f590fb6bd0)
 
 
